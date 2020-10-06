@@ -24,7 +24,7 @@
     "@babel/preset-react": "^7.9.4",
     "babel-loader": "^8.1.0",
     "css-loader": "^3.5.2",
-    "electron": "8.2.0",
+    "electron": "8.5.2",
     "electron-builder": "^22.4.1",
     "electron-webpack": "^2.8.2",
     "style-loader": "^1.1.4",
